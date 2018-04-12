@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "colors", "getGraphicsEvent")
+importFrom("graphics", "par", "plot", "symbols", "text")
